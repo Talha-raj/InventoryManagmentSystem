@@ -49,5 +49,3 @@ npx react-native run-android
 I have attached app screenshots to help you visualize the user interface and functionality.
 
 ---
-
-Feel free to modify or expand upon this README as needed!
