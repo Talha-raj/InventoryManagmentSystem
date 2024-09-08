@@ -1,0 +1,20 @@
+{
+  "inventory": [
+    {
+      "id": "ad82",
+      "name": "Backspace",
+      "quantity": "200",
+      "location": "D476",
+      "description": "This backspace is awesome for cloud",
+      "owner": "Talha Rajper "
+    },
+    {
+      "id": "be4a",
+      "name": "Speaker",
+      "quantity": 100,
+      "location": "D43",
+      "description": "This speaker is awesome ",
+      "owner": "Talha"
+    }
+  ]
+}
